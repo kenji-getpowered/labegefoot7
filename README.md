@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+# Labege Foot 7
+ 
 
-You can use the [editor on GitHub](https://github.com/kenji-getpowered/labegefoot7/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Voila un petit site pour organiser un match de foot régulier sur Labège.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Depuis le 5 décembre 2017, un nouveau super terrain de foot synthètique est accèssible au public tout proche de Labège Village. Il s’agit du terrain Jacky-Conchou.
 
-### Markdown
+## Organisation
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+·         1 rencontre par semaine de foot 7
+·         Niveau amateur, tranquille, auto arbitré, on équilibre les équipes si besoin.
+·         On peut faire du 7vs7 mais aussi du 8vs8 ou 9vs9
+·         Il faut être en tenue au terrain à 12h15,
+·         Match de 1h.
+  
+Localisation : Rue des écoles,Labège
 
-```markdown
-Syntax highlighted code block
+Coordonnée GPS  43.532422, 1.526070
 
-# Header 1
-## Header 2
-### Header 3
+Google MAP : https://www.google.fr/maps/place/43%C2%B031'56.7%22N+1%C2%B031'34.0%22E/@43.5324061,1.5173662,15z/data=!3m1!4b1!4m6!3m5!1s0x0:0x0!7e2!8m2!3d43.5324074!4d1.5261214
 
-- Bulleted
-- List
+ 
+## Infos complémentaires
 
-1. Numbered
-2. List
+·         Terrain synthétique
+·         Pas de douche, pas de vestiaire (pour l'instant)
 
-**Bold** and _Italic_ and `Code` text
+ 
+## Ce qui serait top 
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kenji-getpowered/labegefoot7/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Emmener son chasuble ou prévoir un t shirt clair et un foncé
