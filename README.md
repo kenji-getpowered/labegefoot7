@@ -21,7 +21,7 @@ Localisation : Rue des écoles,Labège
 
 Coordonnée GPS  43.532422, 1.526070
 
-Google MAP : [https://www.google.fr/maps/place/43%C2%B031'56.7%22N+1%C2%B031'34.0%22E/@43.5324061,1.5173662,15z/data=!3m1!4b1!4m6!3m5!1s0x0:0x0!7e2!8m2!3d43.5324074!4d1.5261214]
+Google MAP :(https://www.google.fr/maps/place/43%C2%B031'56.7%22N+1%C2%B031'34.0%22E/@43.5324061,1.5173662,15z/data=!3m1!4b1!4m6!3m5!1s0x0:0x0!7e2!8m2!3d43.5324074!4d1.5261214)
  
 ## Infos complémentaires
 
